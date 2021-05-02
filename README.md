@@ -4,6 +4,7 @@ Hi! This is Mark Tac Toe, a TicTacToe bot written in JS and Markdown.
 
 ## Instructions:
 
+- The game doesn't work on the GitHub app yet, so please use a browser.
 - You'll see a calibration field when you start, and you have to press any field in there to start the game.
 - You have to click only on the tables which are in the area of your screen where the calibration field was at the start.
 - If you see a text saying that your browser window is too large while calibrating, zoom in or resize your window to continue.
